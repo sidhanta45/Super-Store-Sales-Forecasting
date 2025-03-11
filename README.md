@@ -5,7 +5,11 @@ This project analyzes sales data from a Super Store to uncover trends, patterns,
 
 
 Tools Used
+
 Power BI (Data Visualization & Forecasting)
+
 DAX & Power Query (Data Transformation)
+
 Time Series Forecasting (Power BI Analytics)
+
 CSV (as the source dataset)
